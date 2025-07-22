@@ -9,7 +9,7 @@
 
 Multiple devices (like Chromebooks) can connect and collaborate, forming a **unified, interactive game environment**.
 
-![IMG_20250722_21521144](https://github.com/user-attachments/assets/e2650ea1-2c0b-419c-a459-99039b5e8ef7)
+![IMG_20250722_21521144](https://github.com/user-attachments/assets/a6b4699c-9c0a-4ab4-ad1f-fbd476606029)
 
 
 ---
