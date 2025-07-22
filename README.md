@@ -42,7 +42,7 @@ While mobile and smart devices are widely used, existing collaborative systems o
 - ⚠️ Obstacles block paths  
 - 🍎 Fruits = Points or level progression
 
-![IMG_20250722_21521144](https://github.com/user-attachments/assets/51509fed-d2e1-4c1a-aa89-611fc36f715d)
+<img width="1044" height="649" alt="Screenshot 2025-07-22 at 9 58 39 PM" src="https://github.com/user-attachments/assets/faee2d6a-ef22-4a05-90f6-7fe332e2b4e1" />
 
 
 ---
