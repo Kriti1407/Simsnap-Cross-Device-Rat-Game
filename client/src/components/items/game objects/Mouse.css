@@ -1,0 +1,11 @@
+.Draggable{
+    position: absolute;
+    z-index: 1000;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+  }

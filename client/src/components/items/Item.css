@@ -1,0 +1,10 @@
+
+.Map{
+  position: absolute;
+  z-index: 100;
+}
+
+.Flag{
+  position: absolute;
+  z-index: 1000;
+}
